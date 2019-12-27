@@ -1,0 +1,15 @@
+Enter number of rows in table (0 to end): Enter the value of the first number in the table: Enter the increment between rows: A cube table of size 9 will appear here starting with 3.
+Number  Cube
+3       27
+6       216
+9       729
+12      1728
+15      3375
+18      5832
+21      9261
+24      13824
+27      19683
+
+The sum of cubes is: 54675
+
+Enter number of rows in table (0 to end): 
